@@ -1,11 +1,9 @@
 ## SUMMARY
-================================================================================
 
 These files contain 1,000,209 anonymous ratings of approximately 3,900 movies 
 made by 6,040 MovieLens users who joined MovieLens in 2000.
 
 ### RATINGS FILE DESCRIPTION
-================================================================================
 
 All ratings are contained in the file "ratings.dat" and are in the
 following format:
@@ -19,7 +17,6 @@ UserID::MovieID::Rating::Timestamp
 - Each user has at least 20 ratings
 
 ### USERS FILE DESCRIPTION
-================================================================================
 
 User information is in the file "users.dat" and is in the following
 format:
@@ -66,7 +63,6 @@ information are included in this data set.
 	* 20:  "writer"
 
 ### MOVIES FILE DESCRIPTION
-================================================================================
 
 Movie information is in the file "movies.dat" and is in the following
 format:
@@ -102,7 +98,6 @@ entries and/or test entries
 
 
 ## Acknowledgement
-================================================================================
 
 1. F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History
 and Context. ACM Transactions on Interactive Intelligent Systems (TiiS) 5, 4,
