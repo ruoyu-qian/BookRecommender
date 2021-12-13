@@ -1,0 +1,13 @@
+name: MovieRecommender
+title: MovieRecommender
+username:
+account: ruoyuqian
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5316599
+bundleId: 5365035
+url: https://ruoyuqian.shinyapps.io/MovieRecommender/
+when: 1639373453.99059
+lastSyncTime: 1639373453.9906
+asMultiple: FALSE
+asStatic: FALSE
