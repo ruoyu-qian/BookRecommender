@@ -1,4 +1,4 @@
-## Application
+## APPLICATION
 Get personalized movie recommendations from here: https://ruoyuqian.shinyapps.io/MovieRecommender/
 
 ## FILE SUMMARY
